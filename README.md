@@ -22,14 +22,24 @@ Retrieved 2026-05-25, License - CC BY-SA 4.0
   <img src = "assets/smiski_photos/aerobics_smiski.png" alt = "SMISKI Aerobics"/>
 </p>
 
+
 SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMISKI Dali haven't traveled anywhere yet...
 
 <!-- ![velazquez_smiski](assets/smiski_photos/velazquez_smiski.png) -->
 
-<p align = "center">
+<!-- <p align = "center">
   <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez"/>
   <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali"/>
-</p>
+</p> -->
+
+ <div class="row">
+  <div class="column">
+    <img src="assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez" style="width:100%"/>
+  </div>
+  <div class="column">
+    <img src="assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali" style="width:100%">
+  </div>
+</div> 
 
 SMISKI's travels can be viewed chronologically or geographically.
 
