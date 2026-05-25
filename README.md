@@ -11,11 +11,25 @@ I inherited SMISKI Aerobics from a fellow intern in August of 2024. SMISKI was l
 
 Since then, I have taken SMISKI on vacation with me as I travel. SMISKI has now been to **three continents** and **six countries**.
 
-![aerobics_smiski](assets/smiski_photos/aerobics_smiski.png)
+<!-- ![aerobics_smiski](assets/smiski_photos/aerobics_smiski.png) -->
+<!--
+Source - https://stackoverflow.com/a/12118349
+Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
+Retrieved 2026-05-25, License - CC BY-SA 4.0
+-->
 
-SMISKI Vela'zquez joined us May 2026. SMISKI Vela'zquez has yet to travel far...
+<p align = "center">
+  <img src = "assets/smiski_photos/aerobics_smiski.png" alt = "SMISKI Aerobics"/>
+</p>
 
-![velazquez_smiski](assets/smiski_photos/velazquez_smiski.png)
+SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMISKI Dali haven't traveled anywhere yet...
+
+<!-- ![velazquez_smiski](assets/smiski_photos/velazquez_smiski.png) -->
+
+<p align = "center">
+  <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez"/>
+  <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali"/>
+</p>
 
 SMISKI's travels can be viewed chronologically or geographically.
 
