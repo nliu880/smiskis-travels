@@ -11,35 +11,38 @@ I inherited SMISKI Aerobics from a fellow intern in August of 2024. SMISKI was l
 
 Since then, I have taken SMISKI on vacation with me as I travel. SMISKI has now been to **three continents** and **six countries**.
 
-<!-- ![aerobics_smiski](assets/smiski_photos/aerobics_smiski.png) -->
+![aerobics_smiski](assets/smiski_photos/aerobics_smiski.png){ width="800" height="600" style="display: block; margin: 0 auto" }
 <!--
 Source - https://stackoverflow.com/a/12118349
 Posted by waldyr.ar, modified by community. See post 'Timeline' for change history
 Retrieved 2026-05-25, License - CC BY-SA 4.0
 -->
 
-<p align = "center">
+<!-- <p align = "center">
   <img src = "assets/smiski_photos/aerobics_smiski.png" alt = "SMISKI Aerobics"/>
-</p>
+</p> -->
 
 
 SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMISKI Dali haven't traveled anywhere yet...
 
+![velazquez_smiski](assets/smiski_photos/velazquez_smiski.png){ width="400" height="400" style="display: block; margin: 0 auto" }
+![dali_smiski](assets/smiski_photos/dali_smiski.png){ width="400" height="400" style="display: block; margin: 0 auto" }
+
 <!-- ![velazquez_smiski](assets/smiski_photos/velazquez_smiski.png) -->
 
 <!-- <p align = "center">
-  <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez"/>
+  <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez"/> 
   <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali"/>
 </p> -->
 
-<div class="row">
+<!-- <div class="row">
     <div class="column">
       <img src="assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez" height="200" width="200"/>
     </div>
     <div class="column">
       <img src="assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali" height="200" width="200"/>
     </div>
-</div> 
+</div>  -->
 
 SMISKI's travels can be viewed chronologically or geographically.
 
