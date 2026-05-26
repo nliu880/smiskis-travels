@@ -40,7 +40,7 @@ SMISKI's travels can be viewed chronologically or geographically.
 <details> <!-- open chronological dropdown -->
 <summary> SMISKI's Travel Timeline (Chronological) </summary>
 
-<br>
+<!-- <br> -->
 
 <details> <!-- open 2026 dropdown -->
 <summary> Travel with SMISKI in 2026 </summary>
@@ -72,7 +72,7 @@ SMISKI's travels can be viewed chronologically or geographically.
   </p>
 </details> <!-- close chronological dropdown -->
 
-<br>
+<!-- <br> -->
 
 <details> <!-- open 2025 dropdown -->
 <summary> Travel with SMISKI in 2025 </summary>
@@ -140,7 +140,7 @@ SMISKI's travels can be viewed chronologically or geographically.
   </p>
 </details> <!-- close 2025 dropdown -->
 
-<br>
+<!-- <br> -->
 
 <details> <!-- open 2024 dropdown -->
 <summary> Travel with SMISKI in 2024 </summary>
@@ -251,7 +251,7 @@ SMISKI's travels can be viewed chronologically or geographically.
 <details> <!-- open geographical dropdown -->
 <summary> SMISKI's Travel Map (Geographical) </summary>
 
-<br>
+<!-- <br> -->
 
 <h4> North America </h4>
 
@@ -296,7 +296,7 @@ SMISKI's travels can be viewed chronologically or geographically.
   </p>
 </details> <!-- close san jose dropdown -->
 
-<br>
+<!-- <br> -->
 
 <h4> Europe </h4>
 
@@ -373,7 +373,7 @@ SMISKI's travels can be viewed chronologically or geographically.
   </p>
 </details> <!-- close vrango dropdown -->
 
-<br>
+<!-- <br> -->
 
 <h4> Asia </h4>
 
