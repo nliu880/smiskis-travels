@@ -32,16 +32,13 @@ SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMIS
   <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali"/>
 </p> -->
 
-
 <div class="row">
-  <p align = "center">
     <div class="column">
       <img src="assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez" height="200" width="200"/>
     </div>
     <div class="column">
       <img src="assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali" height="200" width="200"/>
     </div>
-  </p>
 </div> 
 
 SMISKI's travels can be viewed chronologically or geographically.
