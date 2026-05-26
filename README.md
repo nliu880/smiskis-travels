@@ -40,7 +40,6 @@ SMISKI's travels can be viewed chronologically or geographically.
 <details> <!-- open chronological dropdown -->
 <summary> SMISKI's Travel Timeline (Chronological) </summary>
 
-<!-- <br> -->
 <h4> 2026 </h4>
 
 <details> <!-- open 2026 dropdown -->
@@ -73,8 +72,6 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in the Xi'an Airport with a similarly posed inflatable panda. </figcaption>
   </p>
 </details> <!-- close chronological dropdown -->
-
-<!-- <br> -->
 
 <h4> 2025 </h4>
 
@@ -145,7 +142,6 @@ SMISKI's travels can be viewed chronologically or geographically.
   </p>
 </details> <!-- close 2025 dropdown -->
 
-<!-- <br> -->
 <h4> 2024 </h4>
 
 <details> <!-- open 2024 dropdown -->
@@ -258,8 +254,6 @@ SMISKI's travels can be viewed chronologically or geographically.
 <details> <!-- open geographical dropdown -->
 <summary> SMISKI's Travel Map (Geographical) </summary>
 
-<!-- <br> -->
-
 <h4> North America </h4>
 
 <details> <!-- open chicago dropdown -->
@@ -302,8 +296,6 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics and two matcha based drinks from Izumi Matcha in San Jose. </figcaption>
   </p>
 </details> <!-- close san jose dropdown -->
-
-<!-- <br> -->
 
 <h4> Europe </h4>
 
@@ -379,8 +371,6 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics on a bench while waiting for the ferry to take us back to the Swedish mainland from the island of Vrängö. </figcaption>
   </p>
 </details> <!-- close vrango dropdown -->
-
-<!-- <br> -->
 
 <h4> Asia </h4>
 
