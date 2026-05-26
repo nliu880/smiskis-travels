@@ -19,8 +19,8 @@ SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMIS
 
 TEXT ALIGN HTML
 <p style="text-align: center">
-  <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez"/> 
-  <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali"/>
+  <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez" height="200" width="200"/> 
+  <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali" height="200" width="200"/>
 </p>
 
 
