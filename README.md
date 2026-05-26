@@ -41,9 +41,11 @@ SMISKI's travels can be viewed chronologically or geographically.
 <summary> SMISKI's Travel Timeline (Chronological) </summary>
 
 <!-- <br> -->
+<h4> 2026 </h4>
 
 <details> <!-- open 2026 dropdown -->
 <summary> Travel with SMISKI in 2026 </summary>
+  <br>
   <h5> January 11 </h5>
   <p style = "text-align: center">
     <img src = "assets/smiski_photos/chongqing_hongyadong_smiski.jpeg" 
@@ -74,8 +76,11 @@ SMISKI's travels can be viewed chronologically or geographically.
 
 <!-- <br> -->
 
+<h4> 2025 </h4>
+
 <details> <!-- open 2025 dropdown -->
 <summary> Travel with SMISKI in 2025 </summary>
+  <br>
   <h5> December 30 </h5>
   <p style = "text-align: center">
     <img src = "assets/smiski_photos/xian_terracotta_smiski.jpeg" 
@@ -141,9 +146,11 @@ SMISKI's travels can be viewed chronologically or geographically.
 </details> <!-- close 2025 dropdown -->
 
 <!-- <br> -->
+<h4> 2024 </h4>
 
 <details> <!-- open 2024 dropdown -->
 <summary> Travel with SMISKI in 2024 </summary>
+  <br>
   <h5> December 30 </h5>
   <p style = "text-align: center">
     <img src = "assets/smiski_photos/paris_lorangerie_smiski.jpeg" 
