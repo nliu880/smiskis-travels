@@ -44,8 +44,8 @@ SMISKI's travels can be viewed chronologically or geographically.
 
 <details> <!-- open 2026 dropdown -->
 <summary> Travel with SMISKI in 2026 </summary>
+  <h5> January 11 </h5>
   <p style = "text-align: center">
-    <h5> January 11 </h5>
     <img src = "assets/smiski_photos/chongqing_hongyadong_smiski.jpeg" 
       alt = "SMISKI Aerobics at Hongya Dong."
       height = "400" 
@@ -53,8 +53,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in Hongya Dong (洪崖洞) at night. </figcaption>
   </p>
     <br>
+  <h5> January 11 </h5>
   <p style = "text-align: center">
-    <h5> January 11 </h5>
     <img src = "assets/smiski_photos/chongqing_flashbang_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of a river at night with the flash on." 
       height = "300" 
@@ -62,8 +62,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in front of one of the rivers of Chongqing, China. I mistimed the flash on this image. </figcaption>
   </p>
     <br>
+  <h5> January 02 </h5>
   <p style = "text-align: center">
-    <h5> January 02 </h5>
     <img src = "assets/smiski_photos/xian_airport_smiski.jpeg" 
       alt = "SMISKI Aerobics with a similarly posed inflatable panda." 
       height = "400" 
@@ -76,8 +76,8 @@ SMISKI's travels can be viewed chronologically or geographically.
 
 <details> <!-- open 2025 dropdown -->
 <summary> Travel with SMISKI in 2025 </summary>
+  <h5> December 30 </h5>
   <p style = "text-align: center">
-    <h5> December 30 </h5>
     <img src = "assets/smiski_photos/xian_terracotta_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of a kneeling terracotta soldier statue in the Emperor Qinshihuang's Mausoleum Site Museum."
       height = "400" 
@@ -85,8 +85,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in front of a kneeling terracotta soldier statue in the Emperor Qinshihuang's Mausoleum Site Museum in Xi'an, China. </figcaption>
   </p>
     <br>
+  <h5> December 30 </h5>
   <p style = "text-align: center">
-    <h5> December 30 </h5>
     <img src = "assets/smiski_photos/xian_terracottapit_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of the terracotta army excavation pits in Xi'an, China." 
       height = "400" 
@@ -94,8 +94,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in front of the terracotta army excavation pits in Xi'an, China. </figcaption>
   </p>
     <br>
+  <h5> December 26 </h5>
   <p style = "text-align: center">
-    <h5> December 26 </h5>
     <img src = "assets/smiski_photos/shanghai_skewer_smiski.jpeg" 
       alt = "SMISKI Aerobics on a rolling meat skewer rack."
       height = "300" 
@@ -103,8 +103,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics on a rolling meat skewer rack. This is at a chain store called 很久以前羊肉串. </figcaption>
   </p>
     <br>
+  <h5> December 25 </h5>
   <p style = "text-align: center">
-    <h5> December 25 </h5>
     <img src = "assets/smiski_photos/shanghai_pearltower_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of the Shanghai Oriental Pearl TV Tower." 
       height = "400" 
@@ -112,17 +112,17 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in front of the Shanghai Oriental Pearl TV Tower. </figcaption>
   </p>
     <br>
+  <h5> December 16 </h5>
   <p style = "text-align: center">
-    <h5> December 16 </h5>
     <img src = "assets/smiski_photos/chicago_bean_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of the Chicago Bean at night." 
       height = "300" 
       width = "400"/> 
-    <figcaption> SMISKI Aerobics in front of the Chicago Bean at night. I believe the name is technically Cloud Gate but who's keeping track? </figcaption>
+    <figcaption> SMISKI Aerobics in front of the Chicago Bean at night. I believe the name is technically Cloud Gate, but who's keeping track? </figcaption>
   </p>
     <br>
+  <h5> December 16 </h5>
   <p style = "text-align: center">
-    <h5> December 16 </h5>
     <img src = "assets/smiski_photos/evanston_lighthouse_smiski.jpeg" 
       alt = "SMISKI Aerobics outside a lighthouse house in Evanston."
       height = "400" 
@@ -130,8 +130,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics at the Evanston lighthouse. Evanston is technically not in Chicago, but it's close enough to Chicago. </figcaption>
   </p>
     <br>
+  <h5> March 29 </h5>
   <p style = "text-align: center">
-    <h5> March 29 </h5>
     <img src = "assets/smiski_photos/vrango_ferry_smiski.jpeg" 
       alt = "SMISKI Aerobics on a bench in front of water." 
       height = "300" 
@@ -144,8 +144,8 @@ SMISKI's travels can be viewed chronologically or geographically.
 
 <details> <!-- open 2024 dropdown -->
 <summary> Travel with SMISKI in 2024 </summary>
+  <h5> December 30 </h5>
   <p style = "text-align: center">
-    <h5> December 30 </h5>
     <img src = "assets/smiski_photos/paris_lorangerie_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of a closeup of one of Monet's Water Lilies panels."
       height = "400" 
@@ -153,8 +153,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics at the L'Orangerie in Paris, which is famous for its displays of Monet's Water Lilies in oval rooms. </figcaption>
   </p>
     <br>
+  <h5> December 28 </h5>
   <p style = "text-align: center">
-    <h5> December 28 </h5>
     <img src = "assets/smiski_photos/paris_eiffeltower_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of the Eiffel Tower. Fog obscures most of the tower." 
       height = "400" 
@@ -162,8 +162,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics and the base of the Eiffel Tower. The fog obscured the top that day. </figcaption>
   </p>
     <br>
+  <h5> December 21 </h5>
   <p style = "text-align: center">
-    <h5> December 21 </h5>
     <img src = "assets/smiski_photos/london_hismajestys_smiski.jpeg" 
       alt = "SMISKI Aerobics in His Majesty's Theater in London."
       height = "400" 
@@ -171,8 +171,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in His Majesty's Theater in London. They were showing The Phantom of the Opera at the time; the famous chandelier can be seen in the background here. </figcaption>
   </p>
     <br>
+  <h5> December 21 </h5>
   <p style = "text-align: center">
-    <h5> December 21 </h5>
     <img src = "assets/smiski_photos/london_towerbridge_smiski.jpeg" 
       alt = "SMISKI Aerobics and the Tower Bridge in London at night." 
       height = "400" 
@@ -180,8 +180,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics outside Tower Bridge in London at night. I broke SMISKI Aerobics' arm off here and had to glue it back on. </figcaption>
   </p>
     <br>
+  <h5> December 21 </h5>
   <p style = "text-align: center">
-    <h5> December 21 </h5>
     <img src = "assets/smiski_photos/london_toweroflondon_smiski.jpeg" 
       alt = "SMISKI Aerobics outside the Tower of London." 
       height = "400" 
@@ -189,8 +189,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics outside the Tower of London complex. </figcaption>
   </p>
     <br>
+  <h5> December 21 </h5>
   <p style = "text-align: center">
-    <h5> December 21 </h5>
     <img src = "assets/smiski_photos/london_globetheater_smiski.jpeg" 
       alt = "SMISKI Aerobics in the Globe Theater." 
       height = "300" 
@@ -198,8 +198,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in a recreation of the Globe Theater. </figcaption>
   </p>
     <br>
+  <h5> December 19 </h5>
   <p style = "text-align: center">
-    <h5> December 19 </h5>
     <img src = "assets/smiski_photos/london_boroughmarket_smiski.jpeg" 
       alt = "SMISKI Aerobics and fish and chips." 
       height = "300" 
@@ -207,8 +207,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics and fish and chips from the Borough Market in London. Fish and fries? </figcaption>
   </p>
     <br>
+  <h5> September 21 </h5>
   <p style = "text-align: center">
-    <h5> September 21 </h5>
     <img src = "assets/smiski_photos/sanjose_izumi_smiski.jpeg" 
       alt = "SMISKI Aerobics on top of two matcha drinks." 
       height = "400" 
@@ -216,8 +216,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics and two matcha based drinks from Izumi Matcha in San Jose. </figcaption>
   </p>
     <br>
+  <h5> August 31 </h5>
   <p style = "text-align: center">
-    <h5> August 31 </h5>
     <img src = "assets/smiski_photos/seoul_bingsoo_smiski.jpeg" 
       alt = "SMISKI Aerobics with some bingsoo."
       height = "300" 
@@ -225,8 +225,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics with some bingsoo. We seemed to have not done too much in Seoul. </figcaption>
   </p>
     <br>
-  <p style = "text-align: center">
-    <h5> August 30 </h5>
+  <h5> August 30 </h5>
+  <p style = "text-align: center">  
     <img src = "assets/smiski_photos/seoul_eggdrop_smiski.jpeg" 
       alt = "SMISKI Aerobics in front of an egg sandwich from an EGGDROP store." 
       height = "400" 
@@ -234,8 +234,8 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics in front of an egg sandwich from an EGGDROP store in Seoul, South Korea. </figcaption>
   </p>
     <br>
+  <h5> August 06 </h5>
   <p style = "text-align: center">
-    <h5> August 06 </h5>
     <img src = "assets/smiski_photos/pittsburgh_tj_smiski.jpeg" 
       alt = "SMISKI Aerobics outside a Trader Joe's in Pittsburgh." 
       height = "400" 
@@ -262,7 +262,7 @@ SMISKI's travels can be viewed chronologically or geographically.
       alt = "SMISKI Aerobics in front of the Chicago Bean at night." 
       height = "300" 
       width = "400"/> 
-    <figcaption> SMISKI Aerobics in front of the Chicago Bean at night. I believe the name is technically Cloud Gate but who's keeping track? </figcaption>
+    <figcaption> SMISKI Aerobics in front of the Chicago Bean at night. I believe the name is technically Cloud Gate, but who's keeping track? </figcaption>
   </p>
     <br>
   <p style = "text-align: center">
