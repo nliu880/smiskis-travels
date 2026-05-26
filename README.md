@@ -15,58 +15,50 @@ Since then, I have taken SMISKI on vacation with me as I travel. SMISKI has now 
   <img src = "assets/smiski_photos/aerobics_smiski.png" alt = "SMISKI Aerobics"/>
 </p>
 
+<br>
+<br>
+
 SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMISKI Dali haven't traveled anywhere yet...
 
-TEXT ALIGN HTML
 <p style="text-align: center">
-  <img src = "assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez" height="200" width="200"/> 
-  <img src = "assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali" height="200" width="200"/>
+  <img src = "assets/smiski_photos/velazquez_smiski.png" 
+    alt = "SMISKI Vela'zquez" 
+    height="200" 
+    width="200"/> 
+  <img src = "assets/smiski_photos/dali_smiski.png" 
+    alt = "SMISKI Dali" 
+    height="200" 
+    width="200"/>
 </p>
 
-
-TEXT ALIGN HTML WITH ROW AND COLUMN CONTAINERS
-<p style="text-align: center">
-  <div class="row">
-      <div class="column">
-        <img src="assets/smiski_photos/velazquez_smiski.png" alt = "SMISKI Vela'zquez" height="200" width="200"/>
-      </div>
-      <div class="column">
-        <img src="assets/smiski_photos/dali_smiski.png" alt = "SMISKI Dali" height="200" width="200"/>
-      </div>
-  </div>
-</p>
+<br>
+<br>
 
 SMISKI's travels can be viewed chronologically or geographically.
 
 <details> <!-- open chronological dropdown -->
 
-<summary>SMISKI's Travel Timeline (Chronological)</summary>
-
-#### 2026
+<summary> SMISKI's Travel Timeline (Chronological) </summary>
 
 <details> <!-- open 2026 dropdown -->
 
-<summary>Travel with SMISKI in 2026</summary>
+<summary> Travel with SMISKI in 2026 </summary>
 
 images
 
 </details> <!-- close chronological dropdown -->
 
-#### 2025
-
 <details> <!-- open 2025 dropdown -->
 
-<summary>Travel with SMISKI in 2025</summary>
+<summary> Travel with SMISKI in 2025 </summary>
 
 images
 
 </details> <!-- close 2025 dropdown -->
 
-#### 2024
-
 <details> <!-- open 2024 dropdown -->
 
-<summary>Travel with SMISKI in 2024</summary>
+<summary> Travel with SMISKI in 2024 </summary>
 
 images
 
@@ -77,13 +69,13 @@ images
 
 <details> <!-- open geographical dropdown -->
 
-<summary>SMISKI's Travel Map (Geographical)</summary>
+<summary> SMISKI's Travel Map (Geographical) </summary>
 
-#### North America
+<h4> North America </h4>
 
 <details> <!-- open chicago dropdown -->
 
-<summary>Chicago, USA</summary>
+<summary> Chicago, USA </summary>
 smiski has been to chicago and evanston
 
 image
@@ -92,7 +84,7 @@ image
 
 <details> <!-- open pittsburgh dropdown -->
 
-<summary>Pittsburgh, USA</summary>
+<summary> Pittsburgh, USA </summary>
 smiski has been to pittsburgh
 
 image
@@ -101,18 +93,18 @@ image
 
 <details> <!-- open san jose dropdown -->
 
-<summary>San Jose, USA</summary>
+<summary> San Jose, USA </summary>
 smiski has been to san jose
 
 image
 
 </details> <!-- close san jose dropdown -->
 
-#### Europe
+<h4> Europe </h4>
 
 <details> <!-- open london dropdown -->
 
-<summary>London, Great Britain</summary>
+<summary> London, Great Britain </summary>
 smiski has been to london
 
 image
@@ -121,7 +113,7 @@ image
 
 <details> <!-- open paris dropdown -->
 
-<summary>Paris, France</summary>
+<summary> Paris, France </summary>
 smiski has been to paris
 
 image
@@ -130,18 +122,18 @@ image
 
 <details> <!-- open vrango dropdown -->
 
-<summary>Vrångö, Sweden</summary>
+<summary> Vrångö, Sweden </summary>
 smiski has been to sweden, technically gothenburg too but idt i have photos from there 
 
 image
 
 </details> <!-- close vrango dropdown -->
 
-#### Asia
+<h4> Asia </h4>
 
 <details> <!-- open chongqing dropdown -->
 
-<summary>Chongqing, China</summary>
+<summary> Chongqing, China </summary>
 smiski has been to chongqing
 
 image
@@ -150,7 +142,7 @@ image
 
 <details> <!-- open seoul dropdown -->
 
-<summary>Seoul, South Korea</summary>
+<summary> Seoul, South Korea </summary>
 smiski has been to seoul
 
 image
@@ -159,7 +151,7 @@ image
 
 <details> <!-- open shanghai dropdown -->
 
-<summary>Shanghai, China</summary>
+<summary> Shanghai, China </summary>
 smiski has been to shanghai
 
 image
@@ -168,10 +160,27 @@ image
 
 <details> <!-- open xian dropdown -->
 
-<summary>Xi'an, China</summary>
-smiski has been to xi'an
+<summary> Xi'an, China </summary>
 
-image
+<p style="text-align: center">
+  <img src = "assets/smiski_photos/xian_terracottapit_smiski.jpeg" 
+    alt = "SMISKI Aerobics in front of the terracotta army excavation pits in Xi'an, China." 
+    height="300" 
+    width="200"/> 
+  <figcaption> SMISKI Aerobics in front of the terracotta army excavation pits in Xi'an, China. <figcaption/>
+  <p></p>
+  <img src = "assets/smiski_photos/xian_terracotta_smiski.jpeg" 
+    alt = "SMISKI Aerobics in front of a kneeling terracotta soldier statue in the Emperor Qinshihuang's Mausoleum Site Museum in Xi'an, China."
+    height="300" 
+    width="200"/>
+  <figcaption> SMISKI Aerobics in front of a kneeling terracotta soldier statue in the Emperor Qinshihuang's Mausoleum Site Museum in Xi'an, China. <figcaption/>
+  <p></p>
+  <img src = "assets/smiski_photos/xian_airport_smiski.jpeg" 
+    alt = "SMISKI Aerobics in the Xi'an Airport with a similarly posed inflatable panda." 
+    height="300" 
+    width="200"/>
+  <figcaption> SMISKI Aerobics in the Xi'an Airport with a similarly posed inflatable panda. <figcaption/>
+</p>
 
 </details> <!-- close xian dropdown -->
 
