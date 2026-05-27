@@ -1,10 +1,3 @@
-<!--# smiskis-travels
-Documenting where I have taken SMIKSI(s) over the years-->
-
----
-layout: default
----
-
 ## Where has SMISKI been? 
 
 I inherited SMISKI Aerobics from a fellow intern in August of 2024. SMISKI was left behind on accident after cleaning out their cubicle...
