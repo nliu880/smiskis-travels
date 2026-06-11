@@ -25,6 +25,8 @@ SMISKI Vela'zquez and SMISKI Dali joined us May 2026. SMISKI Vela'zquez and SMIS
     width = "200"/>
 </p>
 
+SMISKI With a Pearl Earring may be joining us soon!
+
 <br>
 <br>
 
