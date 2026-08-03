@@ -39,7 +39,16 @@ SMISKI's travels can be viewed chronologically or geographically.
 
 <details> <!-- open 2026 dropdown -->
 <summary> Travel with SMISKI in 2026 </summary>
-  <br>
+    <br>
+  <h5> June 25 </h5>
+  <p style = "text-align: center">
+    <img src = "assets/smiski_photos/sf_rodin_smiski.jpeg" 
+      alt = "SMISKI Aerobics and SMISKI Vele'zquez at the Legion of Honor in San Francisco." 
+      height = "400" 
+      width = "300"/>
+    <figcaption> SMISKI Aerobics and SMISKI Vele'zquez at the Legion of Honor in San Francisco. </figcaption>
+  </p>
+    <br>
   <h5> January 11 </h5>
   <p style = "text-align: center">
     <img src = "assets/smiski_photos/chongqing_hongyadong_smiski.jpeg" 
@@ -291,6 +300,17 @@ SMISKI's travels can be viewed chronologically or geographically.
     <figcaption> SMISKI Aerobics and two matcha based drinks from Izumi Matcha in San Jose. </figcaption>
   </p>
 </details> <!-- close san jose dropdown -->
+
+<details> <!-- open sf dropdown -->
+<summary> San Francisco, USA </summary>
+  <p style = "text-align: center">
+    <img src = "assets/smiski_photos/sf_rodin_smiski.jpeg" 
+      alt = "SMISKI Aerobics and SMISKI Vele'zquez at the Legion of Honor in San Francisco." 
+      height = "400" 
+      width = "300"/>
+    <figcaption> SMISKI Aerobics and SMISKI Vele'zquez at the Legion of Honor in San Francisco. </figcaption>
+  </p>
+</details> <!-- close sf dropdown -->
 
 <h4> Europe </h4>
 
